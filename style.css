@@ -1,0 +1,54 @@
+body{
+    margin-top: 3%;
+    text-align: center;
+    background-color: #131200;
+    color: #78BC61;
+    font-family: sans-serif;
+}
+h1{
+    /* color: #131200; */
+    font-size: 400%;
+    
+}
+p{
+    font-size: 150%;
+}
+button{
+    width:40%;
+    height: 50px;
+    font-size: large;
+    font-weight: 800;
+    color: #131200;
+    background-color: #78BC61;
+    border: 2px solid #131200;
+    border-radius: 20px 20px 20px 20px;
+    cursor: pointer;
+}
+
+form label{
+    font-size: 150%;
+    margin-right: 20px;
+}
+#guessField {
+    background-color: #c9ce99;
+    border: 0.5px solid #c9ce99;
+    font-size: larger;
+    border-radius: 10px 10px 10px 10px;
+    height: 40px;
+}
+#submit{
+    width:10%;
+    height: 50px;
+    font-size: medium;
+    font-weight: 700;
+    color: #131200;
+    background-color: #78BC61;
+    border: 2px solid #131200;
+    border-radius: 10px 10px 10px 10px;
+    cursor: pointer;
+}
+/* 
+#submit:hover {
+    cursor: pointer; /* Change to hand cursor on hover */
+  
+
